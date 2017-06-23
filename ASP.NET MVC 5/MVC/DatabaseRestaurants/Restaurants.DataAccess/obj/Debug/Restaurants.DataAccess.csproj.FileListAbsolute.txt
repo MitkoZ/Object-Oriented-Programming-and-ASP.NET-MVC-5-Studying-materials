@@ -1,0 +1,4 @@
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.DataAccess\bin\Debug\Restaurants.DataAccess.dll
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.DataAccess\bin\Debug\Restaurants.DataAccess.pdb
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.DataAccess\obj\Debug\Restaurants.DataAccess.dll
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.DataAccess\obj\Debug\Restaurants.DataAccess.pdb

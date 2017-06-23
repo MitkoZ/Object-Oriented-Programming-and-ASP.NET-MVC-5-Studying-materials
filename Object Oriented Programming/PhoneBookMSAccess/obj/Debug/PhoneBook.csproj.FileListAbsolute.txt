@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\bin\Debug\data.mdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\bin\Debug\PhoneBook.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\bin\Debug\PhoneBook.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\obj\Debug\PhoneBook.frmEditContact.resources
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\obj\Debug\PhoneBook.frmEditPhone.resources
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\obj\Debug\PhoneBook.frmPhonebook.resources
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\obj\Debug\PhoneBook.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\PhoneBookAgain\obj\Debug\PhoneBook.pdb

@@ -1,0 +1,48 @@
+﻿@using OnlineShopMVC.ViewModels
+@model SmartphonesViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<h2>Details</h2>
+<img src="@Url.Content(Model.ImagePath)" style="width:20%"; />
+<br />
+<span>
+    Name:@Model.Name
+</span>
+<br />
+<span>
+    Processor:@Model.Processor
+</span>
+<br />
+<span>
+    RAM:@Model.RAM GB
+</span>
+<br />
+<span>
+    Operating system:@Model.OS
+</span>
+<br />
+<span>
+    Storage:@Model.Storage GB
+</span>
+<br />
+<span>
+    Camera:@Model.Camera
+</span>
+<br />
+<span>
+    Processor:@Model.Processor
+</span>
+<br />
+<span>
+    Sim Card Type:@Model.SIMCardType
+</span>
+<br />
+<span>
+    Price:@Model.Price leva
+</span>
+<br />
+@Html.Partial("_AddToCart", new ViewDataDictionary { { "ProductId", Model.ProductId } })

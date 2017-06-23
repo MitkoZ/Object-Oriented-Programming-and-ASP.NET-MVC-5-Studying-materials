@@ -1,0 +1,24 @@
+﻿@using BaseSample2.Models
+@model User
+
+@{
+    if (Model.Username == null || Model.Username == "")
+    {
+        ViewBag.Title = "Add User";
+    }
+    else
+    { 
+        ViewBag.Title = "Edit User";
+    }
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.Hidden("oldUsername", Model.Username)   <br />
+    @: User:  @Html.EditorFor(model => model.Username)   <br />
+    @: Phonenumber: @Html.EditorFor(model => model.Phonenumber)   <br />
+    <input type="submit" value="Submit" />
+}

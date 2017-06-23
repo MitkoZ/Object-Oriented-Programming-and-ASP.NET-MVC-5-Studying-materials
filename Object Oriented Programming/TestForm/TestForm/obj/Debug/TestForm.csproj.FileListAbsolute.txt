@@ -1,0 +1,21 @@
+D:\webApps\ChrisyPage\TestForm\TestForm\bin\Debug\TestForm.exe.config
+D:\webApps\ChrisyPage\TestForm\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+D:\webApps\ChrisyPage\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+D:\webApps\ChrisyPage\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+D:\webApps\ChrisyPage\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+D:\webApps\ChrisyPage\TestForm\TestForm\bin\Debug\TestForm.exe
+D:\webApps\ChrisyPage\TestForm\TestForm\bin\Debug\TestForm.pdb
+D:\webApps\ChrisyPage\TestForm\TestForm\obj\Debug\TestForm.exe
+D:\webApps\ChrisyPage\TestForm\TestForm\obj\Debug\TestForm.pdb
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\TestForm\TestForm\obj\Debug\TestForm.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\obj\Debug\TestForm.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\PC\Desktop\University\2ra grupa\OOP\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache

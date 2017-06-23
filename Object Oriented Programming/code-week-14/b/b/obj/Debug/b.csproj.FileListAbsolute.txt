@@ -1,0 +1,33 @@
+C:\Users\nikol_000\Desktop\b\b\bin\Debug\b.exe.config
+C:\Users\nikol_000\Desktop\b\b\bin\Debug\b.exe
+C:\Users\nikol_000\Desktop\b\b\bin\Debug\b.pdb
+C:\Users\nikol_000\Desktop\b\b\obj\Debug\b.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\b\b\obj\Debug\b.exe
+C:\Users\nikol_000\Desktop\b\b\obj\Debug\b.pdb
+C:\Users\nikol_000\Desktop\desktop\b\b\bin\Debug\b.exe.config
+C:\Users\nikol_000\Desktop\desktop\b\b\obj\Debug\b.exe
+C:\Users\nikol_000\Desktop\desktop\b\b\obj\Debug\b.pdb
+C:\Users\nikol_000\Desktop\threads\threads\b\b\bin\Debug\b.exe.config
+C:\Users\nikol_000\Desktop\threads\threads\b\b\obj\Debug\b.exe
+C:\Users\nikol_000\Desktop\threads\threads\b\b\obj\Debug\b.pdb
+C:\Users\nikol_000\Desktop\threads\threads\b\b\bin\Debug\b.exe
+C:\Users\nikol_000\Desktop\threads\threads\b\b\bin\Debug\b.pdb
+C:\Users\nikol_000\Desktop\threads\threads\b\b\obj\Debug\b.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\b\b\bin\Debug\b.exe.config
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\b\b\obj\Debug\b.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\b\b\obj\Debug\b.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\b\b\bin\Debug\b.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\b\b\bin\Debug\b.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\b\b\obj\Debug\b.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\b\b\bin\Debug\b.exe.config
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\b\b\obj\Debug\b.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\b\b\obj\Debug\b.pdb
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\b\b\obj\Debug\b.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\b\b\bin\Debug\b.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\b\b\bin\Debug\b.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\b\b\bin\Debug\b.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\b\b\obj\Debug\b.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\b\b\obj\Debug\b.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\b\b\bin\Debug\b.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\b\b\bin\Debug\b.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\b\b\obj\Debug\b.csprojResolveAssemblyReference.cache

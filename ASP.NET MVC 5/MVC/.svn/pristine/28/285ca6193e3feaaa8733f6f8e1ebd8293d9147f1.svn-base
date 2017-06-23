@@ -1,0 +1,46 @@
+﻿@using PagingSortingSearch.Models
+@model SearchViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Get))
+{
+    <text>Restaurant: </text> 
+    @Html.TextBox("restaurantName")
+    <br />
+    <text>Category: </text> 
+    @Html.DropDownList("categoryID", (IEnumerable<SelectListItem>)ViewBag.AllCategories, "")
+
+    <input type="submit" value="Search" />
+}
+
+<table class="table" border="1">
+    <tr>
+        <th> @Html.ActionLink("Name", "Index", new  { sortColumn = "Name", direction = Model.LastSortColumn == "Name" && Model.LastSortDirection != "Desc" ? "Desc" : "", restaurantName = Request.QueryString["restaurantName"], categoryID = Request.QueryString["categoryID"] })</th>
+        <th> @Html.ActionLink("Category", "Index", new { sortColumn = "Category", direction = Model.LastSortColumn == "Category" && Model.LastSortDirection != "Desc" ? "Desc" : "", restaurantName = Request.QueryString["restaurantName"], categoryID = Request.QueryString["categoryID"] })</th>
+        <th> @Html.ActionLink("City", "Index", new { sortColumn = "City", direction = Model.LastSortColumn == "City" && Model.LastSortDirection != "Desc" ? "Desc" : "", restaurantName = Request.QueryString["restaurantName"], categoryID = Request.QueryString["categoryID"] })</th>
+    </tr>
+
+    @if (Model.SearchItems.Count() == 0)
+    {
+        <tr>
+            <td colspan="3"> No records found </td>
+        </tr>
+    }
+    else
+    {
+        foreach (SearchItem item in Model.SearchItems)
+        {
+            <tr>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantName) </td>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantCategory) </td>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantCity) </td>
+            </tr>
+        }
+    }
+</table>
+

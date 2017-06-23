@@ -1,0 +1,5 @@
+﻿
+<div>
+    @Html.ActionLink("Home", "Index", "User")
+    &nbsp;&nbsp;&nbsp;
+</div>

@@ -1,0 +1,12 @@
+C:\Users\nvalchanov\Desktop\week-3-oop\А\D\bin\Debug\D.exe.config
+C:\Users\nvalchanov\Desktop\week-3-oop\А\D\bin\Debug\D.exe
+C:\Users\nvalchanov\Desktop\week-3-oop\А\D\bin\Debug\D.pdb
+C:\Users\nvalchanov\Desktop\week-3-oop\А\D\obj\Debug\D.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\Desktop\week-3-oop\А\D\obj\Debug\D.exe
+C:\Users\nvalchanov\Desktop\week-3-oop\А\D\obj\Debug\D.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\week 3\D\bin\Debug\D.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\week 3\D\obj\Debug\D.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\week 3\D\obj\Debug\D.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\week 3\D\bin\Debug\D.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\week 3\D\bin\Debug\D.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\week 3\D\obj\Debug\D.csprojResolveAssemblyReference.cache

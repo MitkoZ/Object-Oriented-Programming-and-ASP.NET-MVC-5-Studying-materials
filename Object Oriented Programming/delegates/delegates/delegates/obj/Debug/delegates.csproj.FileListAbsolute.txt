@@ -1,0 +1,12 @@
+D:\Dimitar C#\delegates\delegates\bin\Debug\delegates.exe.config
+D:\Dimitar C#\delegates\delegates\bin\Debug\delegates.exe
+D:\Dimitar C#\delegates\delegates\bin\Debug\delegates.pdb
+D:\Dimitar C#\delegates\delegates\obj\Debug\delegates.csprojResolveAssemblyReference.cache
+D:\Dimitar C#\delegates\delegates\obj\Debug\delegates.exe
+D:\Dimitar C#\delegates\delegates\obj\Debug\delegates.pdb
+C:\Users\PC\Downloads\delegates\delegates\bin\Debug\delegates.exe.config
+C:\Users\PC\Downloads\delegates\delegates\obj\Debug\delegates.exe
+C:\Users\PC\Downloads\delegates\delegates\obj\Debug\delegates.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\delegates\delegates\delegates\bin\Debug\delegates.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\delegates\delegates\delegates\obj\Debug\delegates.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\delegates\delegates\delegates\obj\Debug\delegates.pdb

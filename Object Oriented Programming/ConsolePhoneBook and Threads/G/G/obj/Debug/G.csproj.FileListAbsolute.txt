@@ -1,0 +1,12 @@
+D:\Dimitar C#\G\G\bin\Debug\G.exe.config
+D:\Dimitar C#\G\G\bin\Debug\G.exe
+D:\Dimitar C#\G\G\bin\Debug\G.pdb
+D:\Dimitar C#\G\G\obj\Debug\G.csprojResolveAssemblyReference.cache
+D:\Dimitar C#\G\G\obj\Debug\G.exe
+D:\Dimitar C#\G\G\obj\Debug\G.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\G\bin\Debug\G.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\G\obj\Debug\G.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\G\obj\Debug\G.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\G\bin\Debug\G.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\G\bin\Debug\G.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\G\obj\Debug\G.csprojResolveAssemblyReference.cache

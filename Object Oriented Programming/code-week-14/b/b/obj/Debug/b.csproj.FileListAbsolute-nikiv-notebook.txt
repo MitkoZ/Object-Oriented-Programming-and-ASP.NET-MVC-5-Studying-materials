@@ -1,0 +1,6 @@
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture13\code\B\B\bin\Debug\B.exe.config
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture13\code\B\B\bin\Debug\B.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture13\code\B\B\bin\Debug\B.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture13\code\B\B\obj\Debug\B.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture13\code\B\B\obj\Debug\B.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture13\code\B\B\obj\Debug\B.pdb

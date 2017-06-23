@@ -1,0 +1,12 @@
+C:\Users\nvalchanov\Desktop\week-4-oop\A\A\bin\Debug\A.exe.config
+C:\Users\nvalchanov\Desktop\week-4-oop\A\A\bin\Debug\A.exe
+C:\Users\nvalchanov\Desktop\week-4-oop\A\A\bin\Debug\A.pdb
+C:\Users\nvalchanov\Desktop\week-4-oop\A\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\Desktop\week-4-oop\A\A\obj\Debug\A.exe
+C:\Users\nvalchanov\Desktop\week-4-oop\A\A\obj\Debug\A.pdb
+C:\Users\ICO\Desktop\mityo\A\A\bin\Debug\A.exe.config
+C:\Users\ICO\Desktop\mityo\A\A\bin\Debug\A.exe
+C:\Users\ICO\Desktop\mityo\A\A\bin\Debug\A.pdb
+C:\Users\ICO\Desktop\mityo\A\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\ICO\Desktop\mityo\A\A\obj\Debug\A.exe
+C:\Users\ICO\Desktop\mityo\A\A\obj\Debug\A.pdb

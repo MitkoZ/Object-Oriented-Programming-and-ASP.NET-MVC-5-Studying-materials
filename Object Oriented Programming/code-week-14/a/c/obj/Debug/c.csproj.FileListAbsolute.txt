@@ -1,0 +1,12 @@
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\c\bin\Debug\c.exe.config
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\c\bin\Debug\c.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\c\bin\Debug\c.pdb
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\c\obj\Debug\c.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\c\obj\Debug\c.pdb
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\c\obj\Debug\c.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\c\bin\Debug\c.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\c\obj\Debug\c.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\c\obj\Debug\c.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\c\bin\Debug\c.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\c\bin\Debug\c.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\c\obj\Debug\c.csprojResolveAssemblyReference.cache

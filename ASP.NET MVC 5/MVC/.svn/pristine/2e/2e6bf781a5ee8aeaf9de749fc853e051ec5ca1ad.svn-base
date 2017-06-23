@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Get Url Parameter";
+}
+
+<h2>Get Url Parameter</h2>
+
+<p>
+    Име: <b>@ViewBag.Username</b> 
+    <br/>
+    Номер: @ViewBag.Number
+</p>
+
+<p>
+    ==============================
+    <br />
+    Test in URL:  
+    <br />
+    
+    @Html.ActionLink("/Home/GetUrlParameter?username=pesho&number=5", "GetUrlParameter", "Home", new { username ="pesho", number ="5" },null)
+    <br />
+    @Html.ActionLink("/Home/GetUrlParameter?username=pesho", "GetUrlParameter", "Home", new { username = "pesho"}, null)
+    <br />
+    @Html.ActionLink("/Home/GetUrlParameter?number=5", "GetUrlParameter", "Home", new { number = "5" }, null)
+    <br />
+
+    <br />
+    Another way to use parameters:
+    <br />
+    /Home/GetUrlParameter/?username=pesho
+</p>

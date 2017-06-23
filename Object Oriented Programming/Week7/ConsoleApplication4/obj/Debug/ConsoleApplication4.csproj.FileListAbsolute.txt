@@ -1,0 +1,12 @@
+C:\Users\s402\Desktop\prg\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\s402\Desktop\prg\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\s402\Desktop\prg\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\s402\Desktop\prg\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\s402\Desktop\prg\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\s402\Desktop\prg\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week7\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week7\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week7\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week7\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week7\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week7\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

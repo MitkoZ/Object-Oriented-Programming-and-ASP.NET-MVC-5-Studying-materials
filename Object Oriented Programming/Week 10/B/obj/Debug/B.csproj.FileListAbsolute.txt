@@ -1,0 +1,9 @@
+C:\Users\nvalchanov\Desktop\week-10-code\B\bin\Debug\B.dll
+C:\Users\nvalchanov\Desktop\week-10-code\B\bin\Debug\B.pdb
+C:\Users\nvalchanov\Desktop\week-10-code\B\obj\Debug\B.dll
+C:\Users\nvalchanov\Desktop\week-10-code\B\obj\Debug\B.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\B\bin\Debug\B.dll
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\B\bin\Debug\B.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\B\obj\Debug\B.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\B\obj\Debug\B.dll
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\B\obj\Debug\B.pdb

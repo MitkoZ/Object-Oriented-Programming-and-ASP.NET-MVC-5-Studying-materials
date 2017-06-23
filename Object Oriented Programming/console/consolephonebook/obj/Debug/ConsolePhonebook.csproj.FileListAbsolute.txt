@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\University\2ra grupa\OOP\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\console\ConsolePhonebook\obj\Debug\ConsolePhonebook.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\console\ConsolePhonebook\obj\Debug\ConsoleLibrary.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\console\ConsolePhonebook\obj\Debug\ConsoleLibrary.pdb

@@ -1,0 +1,50 @@
+﻿@using WebApplication1.ViewModels
+@model GenericListVM<User>
+@{
+    ViewBag.Title = "ListUsers";
+}
+
+<h2>ListUsers</h2>
+
+@*<table border="1">
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>
+                @item.FirstName
+            </td>
+            <td>
+                @item.LastName
+            </td>
+            <td>
+                @item.Username
+            </td>
+            <td>
+                @item.Password
+            </td>
+        </tr>
+    }
+</table>*@
+
+<table border="1">
+    <tr>
+        @foreach (System.Reflection.PropertyInfo pi in typeof(WebApplication1.ViewModels.User).GetProperties())
+        {
+            <td>
+                @pi.Name
+            </td>
+        }
+    </tr>
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            @foreach (System.Reflection.PropertyInfo pi in typeof(WebApplication1.ViewModels.User).GetProperties())
+            {
+                <td>
+                   @pi.GetValue(item)
+                </td>
+            }
+        </tr>
+    }
+
+</table>

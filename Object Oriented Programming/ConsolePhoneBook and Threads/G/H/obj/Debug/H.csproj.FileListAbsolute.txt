@@ -1,0 +1,12 @@
+D:\Dimitar C#\G\H\bin\Debug\H.exe.config
+D:\Dimitar C#\G\H\bin\Debug\H.exe
+D:\Dimitar C#\G\H\bin\Debug\H.pdb
+D:\Dimitar C#\G\H\obj\Debug\H.exe
+D:\Dimitar C#\G\H\obj\Debug\H.pdb
+D:\Dimitar C#\G\H\obj\Debug\H.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\H\bin\Debug\H.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\H\obj\Debug\H.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\H\obj\Debug\H.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\H\bin\Debug\H.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\H\bin\Debug\H.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\G\H\obj\Debug\H.csprojResolveAssemblyReference.cache

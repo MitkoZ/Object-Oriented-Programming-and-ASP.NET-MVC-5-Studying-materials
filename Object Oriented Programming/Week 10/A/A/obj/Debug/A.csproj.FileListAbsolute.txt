@@ -1,0 +1,16 @@
+C:\Users\nvalchanov\Desktop\week-10-code\A\A\bin\Debug\A.exe.config
+C:\Users\nvalchanov\Desktop\week-10-code\A\A\bin\Debug\A.exe
+C:\Users\nvalchanov\Desktop\week-10-code\A\A\bin\Debug\A.pdb
+C:\Users\nvalchanov\Desktop\week-10-code\A\A\obj\Debug\A.exe
+C:\Users\nvalchanov\Desktop\week-10-code\A\A\obj\Debug\A.pdb
+C:\Users\nvalchanov\Desktop\week-10-code\A\A\bin\Debug\B.dll
+C:\Users\nvalchanov\Desktop\week-10-code\A\A\bin\Debug\B.pdb
+C:\Users\nvalchanov\Desktop\week-10-code\A\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\A\A\bin\Debug\A.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\A\A\obj\Debug\A.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\A\A\obj\Debug\A.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\A\A\bin\Debug\A.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\A\A\bin\Debug\A.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\A\A\bin\Debug\B.dll
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\A\A\bin\Debug\B.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Week 10\A\A\obj\Debug\A.csprojResolveAssemblyReference.cache

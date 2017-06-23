@@ -1,0 +1,148 @@
+﻿@using PagingSortingSearch.Models
+@model SearchViewModel2
+
+@{
+    ViewBag.Title = "Index";
+    
+    var GenerateSelectedString = new Func<int, string>(optionValue => (Model.PageSize == optionValue) ? "selected=selected" : "");
+    var SetPagerItemVisibility = new Func<bool, string>(isVisible => (isVisible) ? "" : "visibility:hidden");
+}
+
+@section Javascript
+{
+    <script type="text/javascript">
+    function searchRestaurants()
+    {
+        var pageIndex = $("#pageIndex").val();
+        var sortColumn = $("#lastSortColumn").val();
+        var direction = $("#lastSortDirection").val();
+
+
+        var clickedLink = $(".pager a.search-current");
+        if (clickedLink.length > 0) {
+            var gotoPage = clickedLink.attr("data-gotopage");
+            pageIndex = gotoPage;
+        }
+
+        // debugger
+        var pageSize = $("#pageSize").val();
+        var restaurantName = $("#restaurantName").val();
+        var categoryID = $("#categoryID").val();
+        var locationHref = "/Home2/Index?pageIndex=" + pageIndex
+            + "&pageSize=" + pageSize
+            + "&restaurantName=" + restaurantName
+            + "&categoryID=" + categoryID;
+
+        var clickedSort = $("#mainTable th a.search-current");
+        if (clickedSort.length > 0) {
+            sortColumn = clickedSort.attr("sortColumn");
+            direction = clickedSort.attr("direction");
+         }
+        locationHref = locationHref + "&sortColumn=" + sortColumn + "&direction=" + direction;
+
+        window.location.href = locationHref;
+    }
+
+    $(document).ready(function () {
+        $("#btnSearch").click(function () {
+            searchRestaurants();
+        });
+        $("table tbody th a").click(function (e) {
+            $(this).addClass("search-current");
+            searchRestaurants();
+            e.preventDefault();
+        });
+
+        $("#mainPager a").click(function (e) {
+            $(this).addClass("search-current");
+            searchRestaurants();
+            e.preventDefault();
+        });
+    });
+    </script>
+}
+
+
+<h2>Index</h2>
+
+<div>
+    @Html.Hidden("pageIndex", Model.CurrentPageIndex)
+    @Html.Hidden("lastSortColumn", Model.LastSortColumn)
+    @Html.Hidden("lastSortDirection", Model.LastSortDirection)
+    <text>Restaurant: </text>
+    @Html.TextBox("restaurantName", Request.QueryString["restaurantName"])
+    <br />
+    <text>Category: </text>
+    @Html.DropDownList("categoryID", (IEnumerable<SelectListItem>)ViewBag.AllCategories, "")
+    <br />
+    <text>Page Size: </text>
+    <select id="pageSize">
+        <option value="2" @GenerateSelectedString(2)>2</option>
+        <option value="3" @GenerateSelectedString(3)>3</option>
+        <option value="5" @GenerateSelectedString(5)>5</option>
+        <option value="10" @GenerateSelectedString(10)>10</option>
+    </select>
+
+    <input type="button" id="btnSearch" value="Search" />
+</div>
+
+<div>
+    Found @Model.TotalItemsCount restaurants
+</div>
+
+<table id="mainTable" class="table" border="1">
+    <tr>
+        <th class="col-md-4"> @Html.ActionLink("Name", "Index", null, new { sortColumn = "Name", direction = Model.LastSortColumn == "Name" && Model.LastSortDirection != "Desc" ? "Desc" : "" })</th>
+        <th class="col-md-4"> @Html.ActionLink("Category", "Index", null, new { sortColumn = "Category", direction = Model.LastSortColumn == "Category" && Model.LastSortDirection != "Desc" ? "Desc" : "" })</th>
+        <th class="col-md-4"> @Html.ActionLink("City", "Index", null, new { sortColumn = "City", direction = Model.LastSortColumn == "City" && Model.LastSortDirection != "Desc" ? "Desc" : "" })</th>
+    </tr>
+
+    @if (Model.SearchItems.Count() == 0)
+    {
+        <tr>
+            <td colspan="3"> No records found </td>
+        </tr>
+    }
+    else
+    {
+        foreach (SearchItem item in Model.SearchItems)
+        {
+            <tr>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantName) </td>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantCategory) </td>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantCity) </td>
+            </tr>
+        }
+    }
+</table>
+
+<div>
+    <ul id="mainPager" class="pager">
+        <li style="@SetPagerItemVisibility(Model.HasFirstPage)">
+            @Html.ActionLink(" << ", "Index", null, new { data_gotopage = 1 })
+        </li>
+
+        <li style="@SetPagerItemVisibility(Model.HasPrevPage)">
+            @Html.ActionLink(" < ", "Index", null, new { data_gotopage = Model.CurrentPageIndex - 1 })
+        </li>
+
+        <li>
+            <span>Page @Model.CurrentPageIndex of @Model.TotalPagesCount</span>
+        </li>
+
+        <li style="@SetPagerItemVisibility(Model.HasNextPage)">
+            @Html.ActionLink(" > ", "Index", null, new { data_gotopage = Model.CurrentPageIndex + 1 })
+        </li>
+
+        <li style="@SetPagerItemVisibility(Model.HasLastPage)">
+            @Html.ActionLink(" >> ", "Index", null, new { data_gotopage = Model.TotalPagesCount })
+        </li>
+    </ul>
+</div>
+
+<style>
+    .pager li > span {
+        border-radius: 0 !important;
+        border: 0 !important;
+    }
+</style>

@@ -1,0 +1,36 @@
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\bin\Debug\TimerSample.exe.config
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\bin\Debug\TimerSample.exe
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\bin\Debug\TimerSample.pdb
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\obj\Debug\TimerSample.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\obj\Debug\TimerSample.Form1.resources
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\obj\Debug\TimerSample.Properties.Resources.resources
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\obj\Debug\TimerSample.csproj.GenerateResource.Cache
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\obj\Debug\TimerSample.exe
+C:\Users\nikol_000\Desktop\threads\threads\TimerSample\TimerSample\obj\Debug\TimerSample.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\bin\Debug\TimerSample.exe.config
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\obj\Debug\TimerSample.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\obj\Debug\TimerSample.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\bin\Debug\TimerSample.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\bin\Debug\TimerSample.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\obj\Debug\TimerSample.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\obj\Debug\TimerSample.Form1.resources
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\obj\Debug\TimerSample.Properties.Resources.resources
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\TimerSample\TimerSample\obj\Debug\TimerSample.csproj.GenerateResource.Cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\bin\Debug\TimerSample.exe.config
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\bin\Debug\TimerSample.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\bin\Debug\TimerSample.pdb
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\obj\Debug\TimerSample.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\obj\Debug\TimerSample.Form1.resources
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\obj\Debug\TimerSample.Properties.Resources.resources
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\obj\Debug\TimerSample.csproj.GenerateResource.Cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\obj\Debug\TimerSample.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\TimerSample\TimerSample\obj\Debug\TimerSample.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\bin\Debug\TimerSample.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\obj\Debug\TimerSample.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\obj\Debug\TimerSample.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\bin\Debug\TimerSample.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\bin\Debug\TimerSample.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\obj\Debug\TimerSample.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\obj\Debug\TimerSample.Form1.resources
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\obj\Debug\TimerSample.Properties.Resources.resources
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\TimerSample\TimerSample\obj\Debug\TimerSample.csproj.GenerateResource.Cache

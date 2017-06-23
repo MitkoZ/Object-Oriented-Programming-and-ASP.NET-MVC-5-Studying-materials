@@ -1,0 +1,26 @@
+C:\Users\nikol_000\Desktop\a\a\bin\Debug\a.exe.config
+C:\Users\nikol_000\Desktop\desktop\a\a\bin\Debug\a.exe.config
+C:\Users\nikol_000\Desktop\threads\threads\a\a\bin\Debug\a.exe.config
+C:\Users\nikol_000\Desktop\threads\threads\a\a\bin\Debug\a.exe
+C:\Users\nikol_000\Desktop\threads\threads\a\a\bin\Debug\a.pdb
+C:\Users\nikol_000\Desktop\threads\threads\a\a\obj\Debug\a.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\threads\threads\a\a\obj\Debug\a.exe
+C:\Users\nikol_000\Desktop\threads\threads\a\a\obj\Debug\a.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\a\a\bin\Debug\a.exe.config
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\a\a\obj\Debug\a.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\a\a\obj\Debug\a.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\a\a\bin\Debug\a.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\a\a\bin\Debug\a.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\a\a\obj\Debug\a.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\a\bin\Debug\a.exe.config
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\a\obj\Debug\a.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\a\obj\Debug\a.pdb
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\a\bin\Debug\a.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\a\bin\Debug\a.pdb
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\a\a\obj\Debug\a.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\a\bin\Debug\a.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\a\obj\Debug\a.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\a\obj\Debug\a.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\a\bin\Debug\a.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\a\bin\Debug\a.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\a\a\obj\Debug\a.csprojResolveAssemblyReference.cache

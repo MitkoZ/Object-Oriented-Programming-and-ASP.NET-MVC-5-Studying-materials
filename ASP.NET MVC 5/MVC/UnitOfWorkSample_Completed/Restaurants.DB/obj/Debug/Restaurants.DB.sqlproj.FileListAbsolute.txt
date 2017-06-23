@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\bin\Debug\Restaurants.DB.dacpac
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\bin\Debug\Restaurants.Database.dll
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\bin\Debug\Restaurants.Database.pdb
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\obj\Debug\Model.xml
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\obj\Debug\refactor.xml
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\obj\Debug\postdeploy.sql
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\obj\Debug\predeploy.sql
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\obj\Debug\Restaurants.Database.dll
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\UnitOfWorkSample_Completed\Restaurants.DB\obj\Debug\Restaurants.Database.pdb

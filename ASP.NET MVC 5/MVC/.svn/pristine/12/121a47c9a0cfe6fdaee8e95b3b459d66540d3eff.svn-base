@@ -1,0 +1,113 @@
+﻿@using PagingSortingSearch.Models
+@model SearchViewModel
+
+@{
+    ViewBag.Title = "Index";
+
+    var SetPagerItemVisibility = new Func<bool, string>(isVisible => (isVisible) ? "" : "visibility:hidden");
+}
+
+@section styles
+{
+    <style>
+        .pager li > span {
+            border-radius: 0 !important;
+            border: 0 !important;
+        }
+    </style>
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Get))
+{
+    <text>Restaurant: </text> 
+    @Html.TextBox("restaurantName", Request.QueryString["restaurantName"])
+    <br />
+    <text>Category: </text> 
+    @Html.DropDownList("categoryID", (IEnumerable<SelectListItem>)ViewBag.AllCategories, "")
+    <br />
+    <input type="submit" value="Search" />
+}
+
+<div>
+    Found @Model.TotalItemsCount restaurants
+</div>
+
+<table class="table" border="1">
+    <tr>
+        <th class="col-md-4"> @Html.ActionLink("Name", "Index", new { sortColumn = "Name", direction = Model.LastSortColumn == "Name" && Model.LastSortDirection != "Desc" ? "Desc" : "", restaurantName = Request.QueryString["restaurantName"], categoryID = Request.QueryString["categoryID"] })</th>
+        <th class="col-md-4"> @Html.ActionLink("Category", "Index", new { sortColumn = "Category", direction = Model.LastSortColumn == "Category" && Model.LastSortDirection != "Desc" ? "Desc" : "", restaurantName = Request.QueryString["restaurantName"], categoryID = Request.QueryString["categoryID"] })</th>
+        <th class="col-md-4"> @Html.ActionLink("City", "Index", new { sortColumn = "City", direction = Model.LastSortColumn == "City" && Model.LastSortDirection != "Desc" ? "Desc" : "", restaurantName = Request.QueryString["restaurantName"], categoryID = Request.QueryString["categoryID"] })</th>
+    </tr>
+
+    @if (Model.SearchItems.Count() == 0)
+    {
+        <tr>
+            <td colspan="3"> No records found </td>
+        </tr>
+    }
+    else
+    {
+        foreach (SearchItem item in Model.SearchItems)
+        {
+            <tr>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantName) </td>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantCategory) </td>
+                <td> @Html.DisplayFor(modelItem => item.RestaurantCity) </td>
+            </tr>
+        }
+    }
+</table>
+
+<div>
+    <ul class="pager">
+        <li style="@(!Model.HasFirstPage ? "visibility:hidden" : "")">
+            @Html.ActionLink(" << ", "Index",
+                        new {
+                            pageIndex = 1,
+                            restaurantName = Request.QueryString["restaurantName"],
+                            categoryID = Request.QueryString["categoryID"],
+                            sortColumn = Model.LastSortColumn,
+                            direction = Model.LastSortDirection
+                        })
+        </li>
+
+        <li style="@SetPagerItemVisibility(Model.HasPrevPage)">
+            @Html.ActionLink(" < ", "Index",
+                        new {
+                            pageIndex = Model.CurrentPageIndex - 1,
+                            restaurantName = Request.QueryString["restaurantName"],
+                            categoryID = Request.QueryString["categoryID"],
+                            sortColumn = Model.LastSortColumn,
+                            direction = Model.LastSortDirection
+                        })
+        </li>
+
+        <li>
+            <span>Page @Model.CurrentPageIndex of @Model.TotalPagesCount</span>
+        </li>
+
+        <li style="@SetPagerItemVisibility(Model.HasNextPage)">
+            @Html.ActionLink(" > ", "Index",
+                        new {
+                            pageIndex = Model.CurrentPageIndex + 1,
+                            restaurantName = Request.QueryString["restaurantName"],
+                            categoryID = Request.QueryString["categoryID"],
+                            sortColumn = Model.LastSortColumn,
+                            direction = Model.LastSortDirection
+                        })
+        </li>
+
+        <li style="@SetPagerItemVisibility(Model.HasLastPage)">
+            @Html.ActionLink(" >> ", "Index",
+                        new { pageIndex = Model.TotalPagesCount,
+                            restaurantName = Request.QueryString["restaurantName"],
+                            categoryID = Request.QueryString["categoryID"],
+                            sortColumn = Model.LastSortColumn,
+                            direction = Model.LastSortDirection
+                        })
+        </li>
+    </ul>
+</div>
+

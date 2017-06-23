@@ -1,0 +1,14 @@
+﻿@using BaseSample2.Models
+@model User
+
+@{
+    ViewBag.Title = "View User";
+}
+
+<h2>View User</h2>
+
+
+Username: @Model.Username
+<br/>
+Phonenumber: @Model.Phonenumber
+<br />

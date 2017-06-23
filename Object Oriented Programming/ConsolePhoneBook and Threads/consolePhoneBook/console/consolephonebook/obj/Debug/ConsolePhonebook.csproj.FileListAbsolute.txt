@@ -1,0 +1,15 @@
+C:\Users\s402\Desktop\consolephonebook\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe.config
+C:\Users\s402\Desktop\consolephonebook\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe
+C:\Users\s402\Desktop\consolephonebook\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.pdb
+C:\Users\s402\Desktop\consolephonebook\console\ConsolePhonebook\obj\Debug\ConsolePhonebook.csprojResolveAssemblyReference.cache
+C:\Users\s402\Desktop\consolephonebook\console\ConsolePhonebook\obj\Debug\ConsoleLibrary.exe
+C:\Users\s402\Desktop\consolephonebook\console\ConsolePhonebook\obj\Debug\ConsoleLibrary.pdb
+C:\Users\s402\Desktop\phonebook\consolePhoneBook\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe.config
+C:\Users\s402\Desktop\phonebook\consolePhoneBook\console\ConsolePhonebook\obj\Debug\ConsoleLibrary.exe
+C:\Users\s402\Desktop\phonebook\consolePhoneBook\console\ConsolePhonebook\obj\Debug\ConsoleLibrary.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\consolePhoneBook\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\consolePhoneBook\console\ConsolePhonebook\obj\Debug\ConsoleLibrary.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\consolePhoneBook\console\ConsolePhonebook\obj\Debug\ConsoleLibrary.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\consolePhoneBook\console\ConsolePhonebook\obj\Debug\ConsolePhonebook.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\consolePhoneBook\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\ConsolePhoneBook and Threads\consolePhoneBook\console\ConsolePhonebook\bin\Debug\ConsoleLibrary.pdb

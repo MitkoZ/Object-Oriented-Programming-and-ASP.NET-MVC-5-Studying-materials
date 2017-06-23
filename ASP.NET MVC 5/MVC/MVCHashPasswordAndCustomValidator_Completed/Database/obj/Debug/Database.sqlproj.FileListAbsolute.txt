@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\MVCHashPasswordAndCustomValidator_Completed\Database\bin\Debug\Database.dacpac
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\MVCHashPasswordAndCustomValidator_Completed\Database\bin\Debug\Database.dll
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\MVCHashPasswordAndCustomValidator_Completed\Database\bin\Debug\Database.pdb
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\MVCHashPasswordAndCustomValidator_Completed\Database\obj\Debug\Database.dll
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\MVCHashPasswordAndCustomValidator_Completed\Database\obj\Debug\Database.pdb

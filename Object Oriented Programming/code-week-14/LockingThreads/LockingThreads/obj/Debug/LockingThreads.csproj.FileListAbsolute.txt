@@ -1,0 +1,30 @@
+C:\Users\nikol_000\Desktop\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe.config
+C:\Users\nikol_000\Desktop\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe
+C:\Users\nikol_000\Desktop\LockingThreads\LockingThreads\bin\Debug\LockingThreads.pdb
+C:\Users\nikol_000\Desktop\LockingThreads\LockingThreads\obj\Debug\LockingThreads.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\LockingThreads\LockingThreads\obj\Debug\LockingThreads.exe
+C:\Users\nikol_000\Desktop\LockingThreads\LockingThreads\obj\Debug\LockingThreads.pdb
+C:\Users\nikol_000\Desktop\threads\threads\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe.config
+C:\Users\nikol_000\Desktop\threads\threads\LockingThreads\LockingThreads\obj\Debug\LockingThreads.exe
+C:\Users\nikol_000\Desktop\threads\threads\LockingThreads\LockingThreads\obj\Debug\LockingThreads.pdb
+C:\Users\nikol_000\Desktop\threads\threads\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe
+C:\Users\nikol_000\Desktop\threads\threads\LockingThreads\LockingThreads\bin\Debug\LockingThreads.pdb
+C:\Users\nikol_000\Desktop\threads\threads\LockingThreads\LockingThreads\obj\Debug\LockingThreads.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe.config
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\LockingThreads\LockingThreads\obj\Debug\LockingThreads.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\LockingThreads\LockingThreads\obj\Debug\LockingThreads.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\LockingThreads\LockingThreads\bin\Debug\LockingThreads.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\LockingThreads\LockingThreads\obj\Debug\LockingThreads.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe.config
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\LockingThreads\LockingThreads\bin\Debug\LockingThreads.pdb
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\LockingThreads\LockingThreads\obj\Debug\LockingThreads.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\LockingThreads\LockingThreads\obj\Debug\LockingThreads.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\LockingThreads\LockingThreads\obj\Debug\LockingThreads.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\LockingThreads\LockingThreads\obj\Debug\LockingThreads.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\LockingThreads\LockingThreads\obj\Debug\LockingThreads.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\LockingThreads\LockingThreads\bin\Debug\LockingThreads.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\LockingThreads\LockingThreads\bin\Debug\LockingThreads.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\LockingThreads\LockingThreads\obj\Debug\LockingThreads.csprojResolveAssemblyReference.cache

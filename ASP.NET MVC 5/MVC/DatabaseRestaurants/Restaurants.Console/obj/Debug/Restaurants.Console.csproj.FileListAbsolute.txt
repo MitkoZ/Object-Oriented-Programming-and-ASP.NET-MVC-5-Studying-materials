@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.Console\bin\Debug\Restaurants.Console.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.Console\bin\Debug\Restaurants.Console.exe
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.Console\bin\Debug\Restaurants.Console.pdb
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.Console\bin\Debug\Restaurants.DataAccess.dll
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.Console\bin\Debug\Restaurants.DataAccess.pdb
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.Console\obj\Debug\Restaurants.Console.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.Console\obj\Debug\Restaurants.Console.exe
+C:\Users\PC\Desktop\University\2ra grupa\ASP.NET MVC\MVC\DatabaseRestaurants\Restaurants.Console\obj\Debug\Restaurants.Console.pdb

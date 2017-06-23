@@ -1,0 +1,24 @@
+C:\Users\nikol_000\Desktop\SynchThreads\SynchThreads\bin\Debug\SynchThreads.exe.config
+C:\Users\nikol_000\Desktop\SynchThreads\SynchThreads\obj\Debug\SynchThreads.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\SynchThreads\SynchThreads\bin\Debug\SynchThreads.exe
+C:\Users\nikol_000\Desktop\SynchThreads\SynchThreads\bin\Debug\SynchThreads.pdb
+C:\Users\nikol_000\Desktop\SynchThreads\SynchThreads\obj\Debug\SynchThreads.exe
+C:\Users\nikol_000\Desktop\SynchThreads\SynchThreads\obj\Debug\SynchThreads.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\SynchThreads\SynchThreads\bin\Debug\SynchThreads.exe.config
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\SynchThreads\SynchThreads\obj\Debug\SynchThreads.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\SynchThreads\SynchThreads\obj\Debug\SynchThreads.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\SynchThreads\SynchThreads\bin\Debug\SynchThreads.exe
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\SynchThreads\SynchThreads\bin\Debug\SynchThreads.pdb
+C:\Users\nikol_000\Desktop\Pragmatic\Lecture16\code\SynchThreads\SynchThreads\obj\Debug\SynchThreads.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\SynchThreads\SynchThreads\bin\Debug\SynchThreads.exe.config
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\SynchThreads\SynchThreads\bin\Debug\SynchThreads.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\SynchThreads\SynchThreads\bin\Debug\SynchThreads.pdb
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\SynchThreads\SynchThreads\obj\Debug\SynchThreads.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\SynchThreads\SynchThreads\obj\Debug\SynchThreads.exe
+C:\Users\nvalchanov\OneDrive\Документи\pragmatic\2016-csharp-and-msdotnet\examples\lecture16\SynchThreads\SynchThreads\obj\Debug\SynchThreads.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\SynchThreads\SynchThreads\bin\Debug\SynchThreads.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\SynchThreads\SynchThreads\obj\Debug\SynchThreads.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\SynchThreads\SynchThreads\obj\Debug\SynchThreads.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\SynchThreads\SynchThreads\bin\Debug\SynchThreads.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\SynchThreads\SynchThreads\bin\Debug\SynchThreads.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\code-week-14\SynchThreads\SynchThreads\obj\Debug\SynchThreads.csprojResolveAssemblyReference.cache

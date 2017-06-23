@@ -1,0 +1,12 @@
+D:\Dimitar C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dimitar C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dimitar C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dimitar C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Dimitar C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Dimitar C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Serialization and filters\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Serialization and filters\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Serialization and filters\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Serialization and filters\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Serialization and filters\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\Serialization and filters\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

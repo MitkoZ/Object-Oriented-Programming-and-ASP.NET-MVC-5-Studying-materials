@@ -1,0 +1,12 @@
+C:\Users\nvalchanov\Desktop\week-9-code\А\А\bin\Debug\А.exe.config
+C:\Users\nvalchanov\Desktop\week-9-code\А\А\bin\Debug\А.exe
+C:\Users\nvalchanov\Desktop\week-9-code\А\А\bin\Debug\А.pdb
+C:\Users\nvalchanov\Desktop\week-9-code\А\А\obj\Debug\А.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\Desktop\week-9-code\А\А\obj\Debug\А.exe
+C:\Users\nvalchanov\Desktop\week-9-code\А\А\obj\Debug\А.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\CodeWeek9\А\А\bin\Debug\А.exe.config
+C:\Users\PC\Desktop\University\2ra grupa\OOP\CodeWeek9\А\А\obj\Debug\А.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\CodeWeek9\А\А\obj\Debug\А.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\CodeWeek9\А\А\bin\Debug\А.exe
+C:\Users\PC\Desktop\University\2ra grupa\OOP\CodeWeek9\А\А\bin\Debug\А.pdb
+C:\Users\PC\Desktop\University\2ra grupa\OOP\CodeWeek9\А\А\obj\Debug\А.csprojResolveAssemblyReference.cache

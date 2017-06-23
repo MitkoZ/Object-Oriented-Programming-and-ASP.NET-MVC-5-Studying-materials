@@ -1,0 +1,6 @@
+C:\Users\nvalchanov\Desktop\week-1-oop\A\A\A\bin\Debug\A.exe.config
+C:\Users\nvalchanov\Desktop\week-1-oop\A\A\A\bin\Debug\A.exe
+C:\Users\nvalchanov\Desktop\week-1-oop\A\A\A\bin\Debug\A.pdb
+C:\Users\nvalchanov\Desktop\week-1-oop\A\A\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\nvalchanov\Desktop\week-1-oop\A\A\A\obj\Debug\A.exe
+C:\Users\nvalchanov\Desktop\week-1-oop\A\A\A\obj\Debug\A.pdb
